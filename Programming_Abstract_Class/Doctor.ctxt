@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=nameIn\ regNoIn\ specialisationIn\ wardNoIn\ oncallIn\ numOfYearsExpIn
+comment0.target=Doctor(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ char,\ int)
+comment1.params=
+comment1.target=int\ getWardNo()
+comment2.params=
+comment2.target=char\ getOncall()
+comment3.params=
+comment3.target=int\ getNumOfYearsExp()
+comment4.params=wardNoIn
+comment4.target=void\ setWardNo(int)
+comment5.params=oncallIn
+comment5.target=void\ setOnCall(char)
+comment6.params=numOfYearsExpIn
+comment6.target=void\ setNumOfYearsExp(int)
+comment7.params=
+comment7.target=java.lang.String\ printAll()
+comment8.params=
+comment8.target=double\ calculatePay()
+numComments=9

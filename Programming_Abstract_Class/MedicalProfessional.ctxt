@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MedicalProfessional
+comment1.params=nameIn\ regNoIn\ specialisationIn
+comment1.target=MedicalProfessional(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getRegNo()
+comment4.params=
+comment4.target=java.lang.String\ getSpecialisation()
+comment5.params=nameIn
+comment5.target=void\ setName(java.lang.String)
+comment6.params=regNoIn
+comment6.target=void\ setRegNo(java.lang.String)
+comment7.params=specialisationIn
+comment7.target=void\ setSpecialisation(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ printAll()
+comment9.params=
+comment9.target=double\ calculatePay()
+numComments=10

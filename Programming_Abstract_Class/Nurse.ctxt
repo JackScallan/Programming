@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=nameIn\ regNoIn\ specialisationIn\ rankIn\ lengthQualifiedIn
+comment0.target=Nurse(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getRank()
+comment2.params=
+comment2.target=int\ getLengthQualified()
+comment3.params=rankIn
+comment3.target=void\ setRank(java.lang.String)
+comment4.params=lengthQualifiedIn
+comment4.target=void\ setLengthQualified(int)
+comment5.params=
+comment5.target=java.lang.String\ printAll()
+comment6.params=
+comment6.target=double\ calculatePay()
+numComments=7

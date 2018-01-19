@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nameIn\ regNoIn\ specialisationIn\ wardNoIn\ oncallIn\ numOfYearsExpIn\ hospitalIn
+comment0.target=Pediatrician(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ char,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getHospital()
+comment2.params=hospitalIn
+comment2.target=void\ setHospital(java.lang.String)
+comment3.params=
+comment3.target=double\ calculatePay()
+comment4.params=
+comment4.target=java.lang.String\ printAll()
+numComments=5
